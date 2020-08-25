@@ -42,7 +42,7 @@ jobs:
         run: |
           source venv/bin/activate
           python main.py ${{ secrets.G_T }}
-        
+
       - name: Push README
         uses: github-actions-x/commit@v2.6
         with:
@@ -50,5 +50,5 @@ jobs:
           commit-message: "Refresh README"
           files: README.md
           rebase: 'true'
-          name: yihong0618 
-          email: zouzou0208@gmail.com
+          name: BruceChen7
+          email: bofengqiye7@gmail.com

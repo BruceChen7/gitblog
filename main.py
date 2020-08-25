@@ -8,7 +8,7 @@ My personal blog using issues and GitHub Action
 
 """
 
-ME_GITHUB_NAME = "yihong0618"
+ME_GITHUB_NAME = "BruceChen7"
 ANCHOR_NUMBER = 5
 TOP_ISSUES_LABELS = [
     "Top",
@@ -103,7 +103,7 @@ def add_md_label(repo, md):
 
 def main(token):
     user = login(token)
-    repo = get_repo(user, "yihong0618/gitblog")
+    repo = get_repo(user, "BruceChen7/gitblog")
     get_top_issues(repo)
     add_md_header("README.md")
     add_md_top(repo, "README.md")
