@@ -2,6 +2,7 @@
 My personal blog using issues and GitHub Action
 
 ## 置顶文章
+- [Systemtap的使用](https://github.com/BruceChen7/gitblog/issues/11)--2020-08-26
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
 - [practical golang](https://github.com/BruceChen7/gitblog/issues/6)--2020-08-25
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
