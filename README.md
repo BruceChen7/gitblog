@@ -11,11 +11,11 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [汇编基础知识](https://github.com/BruceChen7/gitblog/issues/18)--2020-09-04
 - [pratt parser](https://github.com/BruceChen7/gitblog/issues/17)--2020-08-31
 - [lua编程](https://github.com/BruceChen7/gitblog/issues/16)--2020-08-29
 - [项目想法](https://github.com/BruceChen7/gitblog/issues/14)--2020-08-27
 - [锁的实现](https://github.com/BruceChen7/gitblog/issues/13)--2020-08-27
-- [数据库实现资源](https://github.com/BruceChen7/gitblog/issues/12)--2020-08-26
 ## Cpp
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
 ## Golang
