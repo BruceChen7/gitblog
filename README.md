@@ -2,6 +2,7 @@
 My personal blog using issues and GitHub Action
 
 ## 置顶文章
+- [汇编基础知识](https://github.com/BruceChen7/gitblog/issues/18)--2020-09-04
 - [pratt parser](https://github.com/BruceChen7/gitblog/issues/17)--2020-08-31
 - [锁的实现](https://github.com/BruceChen7/gitblog/issues/13)--2020-08-27
 - [Systemtap的使用](https://github.com/BruceChen7/gitblog/issues/11)--2020-08-26
