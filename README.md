@@ -12,7 +12,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
-- [时钟.md](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
+- [时钟](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
 - [汇编基础知识](https://github.com/BruceChen7/gitblog/issues/18)--2020-09-04
 - [pratt parser](https://github.com/BruceChen7/gitblog/issues/17)--2020-08-31
 - [lua编程](https://github.com/BruceChen7/gitblog/issues/16)--2020-08-29
@@ -28,7 +28,7 @@ My personal blog using issues and GitHub Action
 - [Systemtap的使用](https://github.com/BruceChen7/gitblog/issues/11)--2020-08-26
 - [学习资源列表](https://github.com/BruceChen7/gitblog/issues/10)--2020-08-26
 ## 分布式
-- [时钟.md](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
+- [时钟](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
 - [分布式资源](https://github.com/BruceChen7/gitblog/issues/8)--2020-08-26
 ## 数据库
 - [数据库实现资源](https://github.com/BruceChen7/gitblog/issues/12)--2020-08-26
