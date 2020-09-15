@@ -2,7 +2,7 @@
 My personal blog using issues and GitHub Action
 
 ## 置顶文章
-- [TCP知识](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
+- [TCP知识之TimWait](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
 - [网络编程](https://github.com/BruceChen7/gitblog/issues/20)--2020-09-08
 - [汇编基础知识](https://github.com/BruceChen7/gitblog/issues/18)--2020-09-04
 - [pratt parser](https://github.com/BruceChen7/gitblog/issues/17)--2020-08-31
@@ -14,7 +14,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
-- [TCP知识](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
+- [TCP知识之TimWait](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
 - [网络编程](https://github.com/BruceChen7/gitblog/issues/20)--2020-09-08
 - [时钟](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
 - [汇编基础知识](https://github.com/BruceChen7/gitblog/issues/18)--2020-09-04
@@ -29,7 +29,7 @@ My personal blog using issues and GitHub Action
 - [Systemtap的使用](https://github.com/BruceChen7/gitblog/issues/11)--2020-08-26
 - [学习资源列表](https://github.com/BruceChen7/gitblog/issues/10)--2020-08-26
 ## networking
-- [TCP知识](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
+- [TCP知识之TimWait](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
 - [网络编程](https://github.com/BruceChen7/gitblog/issues/20)--2020-09-08
 ## 分布式
 - [时钟](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
