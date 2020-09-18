@@ -15,11 +15,11 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [jaeger agent解析](https://github.com/BruceChen7/gitblog/issues/24)--2020-09-18
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
 - [TCP知识之SO_REUSEPORT和SO_REUSEADDR](https://github.com/BruceChen7/gitblog/issues/22)--2020-09-15
 - [TCP知识之TimWait](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
 - [网络编程](https://github.com/BruceChen7/gitblog/issues/20)--2020-09-08
-- [时钟](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
 ## Cpp
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
 ## Golang
