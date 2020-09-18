@@ -23,6 +23,7 @@ My personal blog using issues and GitHub Action
 ## Cpp
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
 ## Golang
+- [jaeger agent解析](https://github.com/BruceChen7/gitblog/issues/24)--2020-09-18
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## Python
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
