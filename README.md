@@ -2,6 +2,7 @@
 My personal blog using issues and GitHub Action
 
 ## 置顶文章
+- [golang channel的基本使用](https://github.com/BruceChen7/gitblog/issues/27)--2020-12-04
 - [HTTPS的由来](https://github.com/BruceChen7/gitblog/issues/25)--2020-10-21
 - [jaeger agent解析](https://github.com/BruceChen7/gitblog/issues/24)--2020-09-18
 - [TCP知识之SO_REUSEPORT和SO_REUSEADDR](https://github.com/BruceChen7/gitblog/issues/22)--2020-09-15
@@ -17,14 +18,15 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [golang channel的基本使用](https://github.com/BruceChen7/gitblog/issues/27)--2020-12-04
 - [Shell基本知识](https://github.com/BruceChen7/gitblog/issues/26)--2020-12-03
 - [HTTPS的由来](https://github.com/BruceChen7/gitblog/issues/25)--2020-10-21
 - [jaeger agent解析](https://github.com/BruceChen7/gitblog/issues/24)--2020-09-18
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
-- [TCP知识之SO_REUSEPORT和SO_REUSEADDR](https://github.com/BruceChen7/gitblog/issues/22)--2020-09-15
 ## Cpp
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
 ## Golang
+- [golang channel的基本使用](https://github.com/BruceChen7/gitblog/issues/27)--2020-12-04
 - [jaeger agent解析](https://github.com/BruceChen7/gitblog/issues/24)--2020-09-18
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## Python
