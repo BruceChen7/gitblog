@@ -2,7 +2,7 @@
 My personal blog using issues and GitHub Action
 
 ## 置顶文章
-- [CPUCache和Cache更新套路](https://github.com/BruceChen7/gitblog/issues/29)--2020-12-10
+- [CPU Cache和Cache更新套路](https://github.com/BruceChen7/gitblog/issues/29)--2020-12-10
 - [z.lua解析](https://github.com/BruceChen7/gitblog/issues/28)--2020-12-08
 - [golang channel的基本使用](https://github.com/BruceChen7/gitblog/issues/27)--2020-12-04
 - [HTTPS的由来](https://github.com/BruceChen7/gitblog/issues/25)--2020-10-21
@@ -20,7 +20,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
-- [CPUCache和Cache更新套路](https://github.com/BruceChen7/gitblog/issues/29)--2020-12-10
+- [CPU Cache和Cache更新套路](https://github.com/BruceChen7/gitblog/issues/29)--2020-12-10
 - [z.lua解析](https://github.com/BruceChen7/gitblog/issues/28)--2020-12-08
 - [golang channel的基本使用](https://github.com/BruceChen7/gitblog/issues/27)--2020-12-04
 - [Shell基本知识](https://github.com/BruceChen7/gitblog/issues/26)--2020-12-03
