@@ -9,7 +9,7 @@ My personal blog using issues and GitHub Action
 - [HTTPS的由来](https://github.com/BruceChen7/gitblog/issues/25)--2020-10-21
 - [jaeger agent解析](https://github.com/BruceChen7/gitblog/issues/24)--2020-09-18
 - [TCP知识之SO_REUSEPORT和SO_REUSEADDR](https://github.com/BruceChen7/gitblog/issues/22)--2020-09-15
-- [TCP知识之TimWait](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
+- [TCP知识之TimeWait](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
 - [网络编程](https://github.com/BruceChen7/gitblog/issues/20)--2020-09-08
 - [汇编基础知识](https://github.com/BruceChen7/gitblog/issues/18)--2020-09-04
 - [pratt parser](https://github.com/BruceChen7/gitblog/issues/17)--2020-08-31
@@ -46,7 +46,7 @@ My personal blog using issues and GitHub Action
 ## networking
 - [HTTPS的由来](https://github.com/BruceChen7/gitblog/issues/25)--2020-10-21
 - [TCP知识之SO_REUSEPORT和SO_REUSEADDR](https://github.com/BruceChen7/gitblog/issues/22)--2020-09-15
-- [TCP知识之TimWait](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
+- [TCP知识之TimeWait](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
 - [网络编程](https://github.com/BruceChen7/gitblog/issues/20)--2020-09-08
 ## 分布式
 - [时钟](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
