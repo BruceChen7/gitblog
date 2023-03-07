@@ -1,13 +1,19 @@
-name: Generate GitBlog README
+name: Geneggrate GitBlog README
 
 on:
+  workflow_dispatch:
   issues:
     types: [opened, edited, deleted]
+  issues_comment:
+    types: [created, edited]
   push:
     branches:
       - master
     paths:
       - main.py
+env:
+  GITHUB_NAME: BruceChen7
+  GITHUB_EMAIL: bofengqiye7@gmail.com
 
 jobs:
   sync:
@@ -44,11 +50,8 @@ jobs:
           python main.py ${{ secrets.G_T }}
 
       - name: Push README
-        uses: github-actions-x/commit@v2.6
-        with:
-          github-token: ${{ secrets.G_T }}
-          commit-message: "Refresh README"
-          files: README.md
-          rebase: 'true'
-          name: BruceChen7
-          email: bofengqiye7@gmail.com
+        run: |
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
+          git config --local user.name "${{ env.GITHUB_NAME }}"
+          git commit -a -m 'update new blog' || echo "nothing to commit"
+          git push || echo "nothing to push"
