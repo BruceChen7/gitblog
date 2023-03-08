@@ -22,11 +22,11 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [linux系统概念](https://github.com/BruceChen7/gitblog/issues/44)--2023-03-08
+- [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
+- [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
+- [golang basic](https://github.com/BruceChen7/gitblog/issues/41)--2023-03-08
 - [zig基本知识](https://github.com/BruceChen7/gitblog/issues/40)--2023-03-08
-- [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
-- [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
-- [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
-- [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
 ## async
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## cpp
@@ -57,6 +57,10 @@ My personal blog using issues and GitHub Action
 - [Systemtap的使用](https://github.com/BruceChen7/gitblog/issues/11)--2020-08-26
 - [学习资源列表](https://github.com/BruceChen7/gitblog/issues/10)--2020-08-26
 ## ziglang
+- [linux系统概念](https://github.com/BruceChen7/gitblog/issues/44)--2023-03-08
+- [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
+- [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
+- [golang basic](https://github.com/BruceChen7/gitblog/issues/41)--2023-03-08
 - [zig基本知识](https://github.com/BruceChen7/gitblog/issues/40)--2023-03-08
 ## 分布式
 - [时钟](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
