@@ -22,12 +22,13 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/36)--2023-03-08
 - [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
 - [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/34)--2023-03-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
 - [Cpp11基本知识](https://github.com/BruceChen7/gitblog/issues/30)--2020-12-31
-- [CPU Cache和Cache更新套路](https://github.com/BruceChen7/gitblog/issues/29)--2020-12-10
 ## cpp
+- [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/36)--2023-03-08
 - [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
 - [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/34)--2023-03-08
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
