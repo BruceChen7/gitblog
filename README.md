@@ -22,14 +22,16 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
 - [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
 - [Cpp11基本知识](https://github.com/BruceChen7/gitblog/issues/30)--2020-12-31
 - [CPU Cache和Cache更新套路](https://github.com/BruceChen7/gitblog/issues/29)--2020-12-10
-- [z.lua解析](https://github.com/BruceChen7/gitblog/issues/28)--2020-12-08
 ## cpp
 - [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
+## ddia
+- [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
 ## Golang
 - [golang channel的基本使用](https://github.com/BruceChen7/gitblog/issues/27)--2020-12-04
 - [jaeger agent解析](https://github.com/BruceChen7/gitblog/issues/24)--2020-09-18
@@ -45,6 +47,8 @@ My personal blog using issues and GitHub Action
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
 ## rust
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
+## sysetem
+- [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
 ## TODO
 - [项目想法](https://github.com/BruceChen7/gitblog/issues/14)--2020-08-27
 ## Tools
