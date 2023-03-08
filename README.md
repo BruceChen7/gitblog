@@ -22,11 +22,11 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [zig基本知识](https://github.com/BruceChen7/gitblog/issues/40)--2023-03-08
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 - [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
 - [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
-- [Cpp11基本知识](https://github.com/BruceChen7/gitblog/issues/30)--2020-12-31
 ## async
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## cpp
@@ -56,6 +56,8 @@ My personal blog using issues and GitHub Action
 - [Shell基本知识](https://github.com/BruceChen7/gitblog/issues/26)--2020-12-03
 - [Systemtap的使用](https://github.com/BruceChen7/gitblog/issues/11)--2020-08-26
 - [学习资源列表](https://github.com/BruceChen7/gitblog/issues/10)--2020-08-26
+## ziglang
+- [zig基本知识](https://github.com/BruceChen7/gitblog/issues/40)--2023-03-08
 ## 分布式
 - [时钟](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
 - [分布式资源](https://github.com/BruceChen7/gitblog/issues/8)--2020-08-26
