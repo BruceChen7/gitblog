@@ -22,11 +22,11 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
 - [golang性能优化](https://github.com/BruceChen7/gitblog/issues/47)--2023-03-08
 - [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 - [linux系统概念](https://github.com/BruceChen7/gitblog/issues/44)--2023-03-08
-- [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
 ## async
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## cpp
@@ -52,8 +52,9 @@ My personal blog using issues and GitHub Action
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
 ## rust
+- [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
-## sysetem
+## system
 - [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
 ## TODO
 - [项目想法](https://github.com/BruceChen7/gitblog/issues/14)--2020-08-27
