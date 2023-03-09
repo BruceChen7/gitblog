@@ -22,11 +22,11 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
 - [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
 - [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
 - [golang性能优化](https://github.com/BruceChen7/gitblog/issues/47)--2023-03-08
 - [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
-- [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 ## async
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## cpp
@@ -64,6 +64,7 @@ My personal blog using issues and GitHub Action
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
 ## rust
+- [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
 - [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
 ## system
