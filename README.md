@@ -47,7 +47,6 @@ My personal blog using issues and GitHub Action
 
 ## linux
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
-- [linux系统概念](https://github.com/BruceChen7/gitblog/issues/44)--2023-03-08
 ## lua
 - [z.lua解析](https://github.com/BruceChen7/gitblog/issues/28)--2020-12-08
 ## networking
@@ -70,7 +69,6 @@ My personal blog using issues and GitHub Action
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
 ## system
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
-- [linux系统概念](https://github.com/BruceChen7/gitblog/issues/44)--2023-03-08
 - [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
 ## TODO
 - [项目想法](https://github.com/BruceChen7/gitblog/issues/14)--2020-08-27
