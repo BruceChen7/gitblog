@@ -9,7 +9,7 @@ My personal blog using issues and GitHub Action
 """
 
 ME_GITHUB_NAME = "BruceChen7"
-ANCHOR_NUMBER = 5
+ANCHOR_NUMBER = 20
 TOP_ISSUES_LABELS = [
     "Top",
 ]
@@ -60,7 +60,7 @@ def add_md_top(repo, md):
 
 
 def add_md_recent(repo, md):
-    new_five_issues = repo.get_issues()[:5]
+    new_five_issues = repo.get_issues()[:20]
     with open(md, "a+", encoding="utf-8") as md:
         md.write("## 最近更新\n")
         for issue in new_five_issues:
@@ -77,7 +77,6 @@ def add_md_label(repo, md):
     labels = get_repo_labels(repo)
     with open(md, "a+", encoding="utf-8") as md:
         for label in labels:
-
             # we don't need add top label again
             if label.name in TOP_ISSUES_LABELS:
                 continue
