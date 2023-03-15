@@ -27,6 +27,21 @@ My personal blog using issues and GitHub Action
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
 - [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
+- [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
+- [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
+- [golang性能优化](https://github.com/BruceChen7/gitblog/issues/47)--2023-03-08
+- [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
+- [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
+- [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
+- [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
+- [golang basic](https://github.com/BruceChen7/gitblog/issues/41)--2023-03-08
+- [zig基本知识](https://github.com/BruceChen7/gitblog/issues/40)--2023-03-08
+- [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
+- [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
+- [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
+- [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
+- [Cpp11基本知识](https://github.com/BruceChen7/gitblog/issues/30)--2020-12-31
+- [CPU Cache和Cache更新套路](https://github.com/BruceChen7/gitblog/issues/29)--2020-12-10
 ## async
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## code
@@ -44,12 +59,8 @@ My personal blog using issues and GitHub Action
 - [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 - [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
-<details><summary>显示更多</summary>
-
 - [golang basic](https://github.com/BruceChen7/gitblog/issues/41)--2023-03-08
 - [practical golang](https://github.com/BruceChen7/gitblog/issues/6)--2020-08-25
-</details>
-
 ## k8s
 - [programming k8s](https://github.com/BruceChen7/gitblog/issues/54)--2023-03-15
 ## linux
@@ -62,13 +73,9 @@ My personal blog using issues and GitHub Action
 - [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 - [HTTPS的由来](https://github.com/BruceChen7/gitblog/issues/25)--2020-10-21
-<details><summary>显示更多</summary>
-
 - [TCP知识之SO_REUSEPORT和SO_REUSEADDR](https://github.com/BruceChen7/gitblog/issues/22)--2020-09-15
 - [TCP知识之TimeWait](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
 - [网络编程](https://github.com/BruceChen7/gitblog/issues/20)--2020-09-08
-</details>
-
 ## Python
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
