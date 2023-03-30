@@ -22,6 +22,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
 - [effective python](https://github.com/BruceChen7/gitblog/issues/60)--2023-03-22
 - [Essentials of Compilation](https://github.com/BruceChen7/gitblog/issues/59)--2023-03-22
 - [海量数据题](https://github.com/BruceChen7/gitblog/issues/58)--2023-03-22
@@ -41,7 +42,6 @@ My personal blog using issues and GitHub Action
 - [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
 - [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
 - [golang basic](https://github.com/BruceChen7/gitblog/issues/41)--2023-03-08
-- [zig基本知识](https://github.com/BruceChen7/gitblog/issues/40)--2023-03-08
 ## async
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## code
@@ -92,6 +92,7 @@ My personal blog using issues and GitHub Action
 - [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
 ## system
+- [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
 - [Essentials of Compilation](https://github.com/BruceChen7/gitblog/issues/59)--2023-03-22
 - [海量数据题](https://github.com/BruceChen7/gitblog/issues/58)--2023-03-22
 - [编程之道](https://github.com/BruceChen7/gitblog/issues/56)--2023-03-16
