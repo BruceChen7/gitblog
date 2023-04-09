@@ -62,7 +62,6 @@ My personal blog using issues and GitHub Action
 - [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 - [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
-- [golang basic](https://github.com/BruceChen7/gitblog/issues/41)--2023-03-08
 - [practical golang](https://github.com/BruceChen7/gitblog/issues/6)--2020-08-25
 ## k8s
 - [programming k8s](https://github.com/BruceChen7/gitblog/issues/54)--2023-03-15
