@@ -22,6 +22,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [golang的基本语言知识](https://github.com/BruceChen7/gitblog/issues/62)--2023-04-09
 - [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
 - [effective python](https://github.com/BruceChen7/gitblog/issues/60)--2023-03-22
 - [Essentials of Compilation](https://github.com/BruceChen7/gitblog/issues/59)--2023-03-22
@@ -41,7 +42,6 @@ My personal blog using issues and GitHub Action
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 - [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
 - [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
-- [golang basic](https://github.com/BruceChen7/gitblog/issues/41)--2023-03-08
 ## async
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## code
@@ -56,6 +56,7 @@ My personal blog using issues and GitHub Action
 - [bpf co-re](https://github.com/BruceChen7/gitblog/issues/57)--2023-03-21
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 ## golang
+- [golang的基本语言知识](https://github.com/BruceChen7/gitblog/issues/62)--2023-04-09
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 - [golang性能优化](https://github.com/BruceChen7/gitblog/issues/47)--2023-03-08
 - [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
