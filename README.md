@@ -62,7 +62,10 @@ My personal blog using issues and GitHub Action
 - [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 - [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
+- [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
 - [practical golang](https://github.com/BruceChen7/gitblog/issues/6)--2020-08-25
+## http2
+- [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
 ## k8s
 - [programming k8s](https://github.com/BruceChen7/gitblog/issues/54)--2023-03-15
 ## libpf
@@ -106,7 +109,6 @@ My personal blog using issues and GitHub Action
 - [Systemtap的使用](https://github.com/BruceChen7/gitblog/issues/11)--2020-08-26
 - [学习资源列表](https://github.com/BruceChen7/gitblog/issues/10)--2020-08-26
 ## ziglang
-- [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
 - [zig基本知识](https://github.com/BruceChen7/gitblog/issues/40)--2023-03-08
 ## 分布式
 - [时钟](https://github.com/BruceChen7/gitblog/issues/19)--2020-09-07
