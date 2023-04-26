@@ -23,7 +23,6 @@ My personal blog using issues and GitHub Action
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
-- [liburing使用](https://github.com/BruceChen7/gitblog/issues/63)--2023-04-26
 - [golang的基本语言知识](https://github.com/BruceChen7/gitblog/issues/62)--2023-04-09
 - [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
 - [effective python](https://github.com/BruceChen7/gitblog/issues/60)--2023-03-22
@@ -42,11 +41,11 @@ My personal blog using issues and GitHub Action
 - [golang性能优化](https://github.com/BruceChen7/gitblog/issues/47)--2023-03-08
 - [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
+- [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
 ## async
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## code
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
-- [liburing使用](https://github.com/BruceChen7/gitblog/issues/63)--2023-04-26
 - [编程之道](https://github.com/BruceChen7/gitblog/issues/56)--2023-03-16
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 ## cpp
@@ -74,7 +73,6 @@ My personal blog using issues and GitHub Action
 - [bpf co-re](https://github.com/BruceChen7/gitblog/issues/57)--2023-03-21
 ## linux
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
-- [liburing使用](https://github.com/BruceChen7/gitblog/issues/63)--2023-04-26
 - [bpf co-re](https://github.com/BruceChen7/gitblog/issues/57)--2023-03-21
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
 ## lua
