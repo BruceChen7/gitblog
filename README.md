@@ -22,6 +22,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
 - [golang的基本语言知识](https://github.com/BruceChen7/gitblog/issues/62)--2023-04-09
 - [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
@@ -41,7 +42,6 @@ My personal blog using issues and GitHub Action
 - [golang性能优化](https://github.com/BruceChen7/gitblog/issues/47)--2023-03-08
 - [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
-- [goroutine使用](https://github.com/BruceChen7/gitblog/issues/43)--2023-03-08
 ## async
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## code
@@ -54,6 +54,7 @@ My personal blog using issues and GitHub Action
 ## ddia
 - [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
 ## ebpf
+- [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
 - [bpf co-re](https://github.com/BruceChen7/gitblog/issues/57)--2023-03-21
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 ## golang
@@ -70,8 +71,10 @@ My personal blog using issues and GitHub Action
 ## k8s
 - [programming k8s](https://github.com/BruceChen7/gitblog/issues/54)--2023-03-15
 ## libpf
+- [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
 - [bpf co-re](https://github.com/BruceChen7/gitblog/issues/57)--2023-03-21
 ## linux
+- [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
 - [bpf co-re](https://github.com/BruceChen7/gitblog/issues/57)--2023-03-21
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
