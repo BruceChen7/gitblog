@@ -22,7 +22,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
-- [rust中的sync和sen](https://github.com/BruceChen7/gitblog/issues/67)--2023-05-08
+- [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/67)--2023-05-08
 - [使用类型来表达约束](https://github.com/BruceChen7/gitblog/issues/66)--2023-05-08
 - [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
@@ -91,7 +91,7 @@ My personal blog using issues and GitHub Action
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
 ## rust
-- [rust中的sync和sen](https://github.com/BruceChen7/gitblog/issues/67)--2023-05-08
+- [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/67)--2023-05-08
 - [使用类型来表达约束](https://github.com/BruceChen7/gitblog/issues/66)--2023-05-08
 - [async和await的概念](https://github.com/BruceChen7/gitblog/issues/55)--2023-03-15
 - [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
