@@ -22,6 +22,8 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
+- [Python中的最佳实践](https://github.com/BruceChen7/gitblog/issues/68)--2023-05-13
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/67)--2023-05-08
 - [使用类型来表达约束](https://github.com/BruceChen7/gitblog/issues/66)--2023-05-08
 - [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
@@ -40,9 +42,8 @@ My personal blog using issues and GitHub Action
 - [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
 - [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
 - [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
-- [golang性能优化](https://github.com/BruceChen7/gitblog/issues/47)--2023-03-08
-- [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
 ## async
+- [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## code
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
@@ -87,6 +88,8 @@ My personal blog using issues and GitHub Action
 - [TCP知识之TimeWait](https://github.com/BruceChen7/gitblog/issues/21)--2020-09-08
 - [网络编程](https://github.com/BruceChen7/gitblog/issues/20)--2020-09-08
 ## Python
+- [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
+- [Python中的最佳实践](https://github.com/BruceChen7/gitblog/issues/68)--2023-05-13
 - [effective python](https://github.com/BruceChen7/gitblog/issues/60)--2023-03-22
 - [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
