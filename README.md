@@ -44,7 +44,6 @@ My personal blog using issues and GitHub Action
 - [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
 ## async
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
-- [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 ## code
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
 - [编程之道](https://github.com/BruceChen7/gitblog/issues/56)--2023-03-16
@@ -91,7 +90,6 @@ My personal blog using issues and GitHub Action
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 - [Python中的最佳实践](https://github.com/BruceChen7/gitblog/issues/68)--2023-05-13
 - [effective python](https://github.com/BruceChen7/gitblog/issues/60)--2023-03-22
-- [fluent python](https://github.com/BruceChen7/gitblog/issues/39)--2023-03-08
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
 ## rust
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/67)--2023-05-08
