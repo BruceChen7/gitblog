@@ -22,8 +22,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
-- [rust中的sync和sen](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
-- [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/70)--2023-05-30
+- [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 - [Python中的最佳实践](https://github.com/BruceChen7/gitblog/issues/68)--2023-05-13
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/67)--2023-05-08
@@ -42,6 +41,7 @@ My personal blog using issues and GitHub Action
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
 - [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
+- [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
 ## async
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 ## code
@@ -92,8 +92,7 @@ My personal blog using issues and GitHub Action
 - [effective python](https://github.com/BruceChen7/gitblog/issues/60)--2023-03-22
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
 ## rust
-- [rust中的sync和sen](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
-- [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/70)--2023-05-30
+- [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/67)--2023-05-08
 - [使用类型来表达约束](https://github.com/BruceChen7/gitblog/issues/66)--2023-05-08
 - [async和await的概念](https://github.com/BruceChen7/gitblog/issues/55)--2023-03-15
