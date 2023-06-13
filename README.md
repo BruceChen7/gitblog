@@ -22,6 +22,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [寄存器分配算法](https://github.com/BruceChen7/gitblog/issues/72)--2023-06-13
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 - [Python中的最佳实践](https://github.com/BruceChen7/gitblog/issues/68)--2023-05-13
@@ -41,7 +42,6 @@ My personal blog using issues and GitHub Action
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
 - [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
-- [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
 ## async
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 ## code
@@ -101,6 +101,7 @@ My personal blog using issues and GitHub Action
 - [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
 ## system
+- [寄存器分配算法](https://github.com/BruceChen7/gitblog/issues/72)--2023-06-13
 - [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
 - [Essentials of Compilation](https://github.com/BruceChen7/gitblog/issues/59)--2023-03-22
 - [海量数据题](https://github.com/BruceChen7/gitblog/issues/58)--2023-03-22
