@@ -22,6 +22,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
 - [寄存器分配算法](https://github.com/BruceChen7/gitblog/issues/72)--2023-06-13
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
@@ -41,10 +42,10 @@ My personal blog using issues and GitHub Action
 - [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
-- [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
 ## async
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 ## code
+- [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
 - [编程之道](https://github.com/BruceChen7/gitblog/issues/56)--2023-03-16
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
@@ -101,6 +102,7 @@ My personal blog using issues and GitHub Action
 - [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
 ## system
+- [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
 - [寄存器分配算法](https://github.com/BruceChen7/gitblog/issues/72)--2023-06-13
 - [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
 - [Essentials of Compilation](https://github.com/BruceChen7/gitblog/issues/59)--2023-03-22
