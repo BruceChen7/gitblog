@@ -27,7 +27,6 @@ My personal blog using issues and GitHub Action
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 - [Python中的最佳实践](https://github.com/BruceChen7/gitblog/issues/68)--2023-05-13
-- [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/67)--2023-05-08
 - [使用类型来表达约束](https://github.com/BruceChen7/gitblog/issues/66)--2023-05-08
 - [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
@@ -42,6 +41,7 @@ My personal blog using issues and GitHub Action
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
 - [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
+- [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
 ## async
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 ## code
@@ -93,7 +93,6 @@ My personal blog using issues and GitHub Action
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
 ## rust
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
-- [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/67)--2023-05-08
 - [使用类型来表达约束](https://github.com/BruceChen7/gitblog/issues/66)--2023-05-08
 - [async和await的概念](https://github.com/BruceChen7/gitblog/issues/55)--2023-03-15
 - [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
