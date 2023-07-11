@@ -37,11 +37,11 @@ My personal blog using issues and GitHub Action
 - [Essentials of Compilation](https://github.com/BruceChen7/gitblog/issues/59)--2023-03-22
 - [海量数据题](https://github.com/BruceChen7/gitblog/issues/58)--2023-03-22
 - [async和await的概念](https://github.com/BruceChen7/gitblog/issues/55)--2023-03-15
-- [programming k8s](https://github.com/BruceChen7/gitblog/issues/54)--2023-03-15
 - [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
 - [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
+- [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
 ## async
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 ## code
@@ -69,7 +69,6 @@ My personal blog using issues and GitHub Action
 - [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
 ## k8s
 - [k8s中的二次开发](https://github.com/BruceChen7/gitblog/issues/74)--2023-07-05
-- [programming k8s](https://github.com/BruceChen7/gitblog/issues/54)--2023-03-15
 ## libpf
 - [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
 ## linux
@@ -80,7 +79,6 @@ My personal blog using issues and GitHub Action
 - [z.lua解析](https://github.com/BruceChen7/gitblog/issues/28)--2020-12-08
 ## networking
 - [k8s中的二次开发](https://github.com/BruceChen7/gitblog/issues/74)--2023-07-05
-- [programming k8s](https://github.com/BruceChen7/gitblog/issues/54)--2023-03-15
 - [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
 - [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
