@@ -58,7 +58,6 @@ My personal blog using issues and GitHub Action
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 ## golang
 - [golang的基本语言知识](https://github.com/BruceChen7/gitblog/issues/62)--2023-04-09
-- [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 - [golang性能优化](https://github.com/BruceChen7/gitblog/issues/47)--2023-03-08
 - [golang实现HTTP2之协议处理](https://github.com/BruceChen7/gitblog/issues/46)--2023-03-08
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
