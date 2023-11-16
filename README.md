@@ -36,12 +36,12 @@ My personal blog using issues and GitHub Action
 - [golang的基本语言知识](https://github.com/BruceChen7/gitblog/issues/62)--2023-04-09
 - [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
 - [effective python](https://github.com/BruceChen7/gitblog/issues/60)--2023-03-22
-- [寄存器分配](https://github.com/BruceChen7/gitblog/issues/59)--2023-03-22
 - [海量数据题](https://github.com/BruceChen7/gitblog/issues/58)--2023-03-22
 - [async和await的概念](https://github.com/BruceChen7/gitblog/issues/55)--2023-03-15
 - [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
+- [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
 ## async
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 ## code
@@ -106,7 +106,6 @@ My personal blog using issues and GitHub Action
 - [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
 - [寄存器分配算法](https://github.com/BruceChen7/gitblog/issues/72)--2023-06-13
 - [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
-- [寄存器分配](https://github.com/BruceChen7/gitblog/issues/59)--2023-03-22
 - [海量数据题](https://github.com/BruceChen7/gitblog/issues/58)--2023-03-22
 - [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
 - [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
