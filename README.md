@@ -48,8 +48,6 @@ My personal blog using issues and GitHub Action
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 ## code
 - [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
-- [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
-- [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 ## cpp
 - [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
@@ -58,7 +56,7 @@ My personal blog using issues and GitHub Action
 ## golang
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 - [practical golang](https://github.com/BruceChen7/gitblog/issues/6)--2020-08-25
-## http2
+## keyword/http2
 - [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
 ## libpf
 - [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
@@ -81,13 +79,7 @@ My personal blog using issues and GitHub Action
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
 ## system
-- [X86汇编](https://github.com/BruceChen7/gitblog/issues/78)--2023-11-28
 - [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
-- [寄存器分配算法](https://github.com/BruceChen7/gitblog/issues/72)--2023-06-13
-- [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
-- [海量数据题](https://github.com/BruceChen7/gitblog/issues/58)--2023-03-22
-- [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
-- [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
 ## TODO
 - [项目想法](https://github.com/BruceChen7/gitblog/issues/14)--2020-08-27
 ## Tools
@@ -95,6 +87,9 @@ My personal blog using issues and GitHub Action
 - [Shell基本知识](https://github.com/BruceChen7/gitblog/issues/26)--2020-12-03
 - [Systemtap的使用](https://github.com/BruceChen7/gitblog/issues/11)--2020-08-26
 - [学习资源列表](https://github.com/BruceChen7/gitblog/issues/10)--2020-08-26
+## type/code
+- [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
+- [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 ## type/ebpf
 - [X86汇编](https://github.com/BruceChen7/gitblog/issues/78)--2023-11-28
 - [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
@@ -125,6 +120,14 @@ My personal blog using issues and GitHub Action
 - [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
 - [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
 - [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
+## type/system
+- [X86汇编](https://github.com/BruceChen7/gitblog/issues/78)--2023-11-28
+- [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
+- [寄存器分配算法](https://github.com/BruceChen7/gitblog/issues/72)--2023-06-13
+- [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
+- [海量数据题](https://github.com/BruceChen7/gitblog/issues/58)--2023-03-22
+- [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
+- [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
 ## ziglang
 - [zig基本知识](https://github.com/BruceChen7/gitblog/issues/40)--2023-03-08
 ## 分布式
