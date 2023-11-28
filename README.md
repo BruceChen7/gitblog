@@ -55,25 +55,16 @@ My personal blog using issues and GitHub Action
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
 ## ddia
 - [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
-## ebpf
-- [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 ## golang
-- [prometheus磁盘文件格式理解](https://github.com/BruceChen7/gitblog/issues/77)--2023-11-16
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 - [practical golang](https://github.com/BruceChen7/gitblog/issues/6)--2020-08-25
 ## http2
 - [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
 ## libpf
 - [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
-## linux
-- [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
 ## lua
 - [z.lua解析](https://github.com/BruceChen7/gitblog/issues/28)--2020-12-08
-## mysql
-- [prometheus磁盘文件格式理解](https://github.com/BruceChen7/gitblog/issues/77)--2023-11-16
 ## networking
-- [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
-- [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 - [HTTPS的由来](https://github.com/BruceChen7/gitblog/issues/25)--2020-10-21
 - [TCP知识之SO_REUSEPORT和SO_REUSEADDR](https://github.com/BruceChen7/gitblog/issues/22)--2020-09-15
@@ -88,10 +79,6 @@ My personal blog using issues and GitHub Action
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
 ## rust
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
-- [使用类型来表达约束](https://github.com/BruceChen7/gitblog/issues/66)--2023-05-08
-- [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
-- [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
-- [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
 ## system
 - [X86汇编](https://github.com/BruceChen7/gitblog/issues/78)--2023-11-28
@@ -111,6 +98,7 @@ My personal blog using issues and GitHub Action
 ## type/ebpf
 - [X86汇编](https://github.com/BruceChen7/gitblog/issues/78)--2023-11-28
 - [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
+- [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 ## type/golang
 - [prometheus磁盘文件格式理解](https://github.com/BruceChen7/gitblog/issues/77)--2023-11-16
 - [golang中的最佳实践](https://github.com/BruceChen7/gitblog/issues/76)--2023-08-16
@@ -124,10 +112,19 @@ My personal blog using issues and GitHub Action
 ## type/linux
 - [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
+- [常见的系统概念](https://github.com/BruceChen7/gitblog/issues/51)--2023-03-10
+## type/mysql
+- [prometheus磁盘文件格式理解](https://github.com/BruceChen7/gitblog/issues/77)--2023-11-16
 ## type/networking
 - [k8s中的二次开发](https://github.com/BruceChen7/gitblog/issues/74)--2023-07-05
+- [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
+- [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
 ## type/rust
+- [使用类型来表达约束](https://github.com/BruceChen7/gitblog/issues/66)--2023-05-08
 - [async和await的概念](https://github.com/BruceChen7/gitblog/issues/55)--2023-03-15
+- [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
+- [rust之模块化](https://github.com/BruceChen7/gitblog/issues/50)--2023-03-09
+- [rust的错误处理](https://github.com/BruceChen7/gitblog/issues/48)--2023-03-08
 ## ziglang
 - [zig基本知识](https://github.com/BruceChen7/gitblog/issues/40)--2023-03-08
 ## 分布式
