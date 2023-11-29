@@ -46,8 +46,6 @@ My personal blog using issues and GitHub Action
 - [X86汇编](https://github.com/BruceChen7/gitblog/issues/78)--2023-11-28
 ## async
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
-## code
-- [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
 ## cpp
 - [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
@@ -78,8 +76,6 @@ My personal blog using issues and GitHub Action
 ## rust
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/71)--2023-06-08
 - [rust中的概念](https://github.com/BruceChen7/gitblog/issues/31)--2023-03-07
-## system
-- [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
 ## TODO
 - [项目想法](https://github.com/BruceChen7/gitblog/issues/14)--2020-08-27
 ## Tools
@@ -88,6 +84,7 @@ My personal blog using issues and GitHub Action
 - [Systemtap的使用](https://github.com/BruceChen7/gitblog/issues/11)--2020-08-26
 - [学习资源列表](https://github.com/BruceChen7/gitblog/issues/10)--2020-08-26
 ## type/code
+- [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 ## type/ebpf
