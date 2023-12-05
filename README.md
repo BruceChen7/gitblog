@@ -47,7 +47,6 @@ My personal blog using issues and GitHub Action
 ## async
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 ## cpp
-- [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
 - [shared_ptr使用](https://github.com/BruceChen7/gitblog/issues/9)--2020-08-26
 ## ddia
 - [分布式系统概念](https://github.com/BruceChen7/gitblog/issues/38)--2023-03-08
@@ -86,6 +85,8 @@ My personal blog using issues and GitHub Action
 - [编程中的原则](https://github.com/BruceChen7/gitblog/issues/73)--2023-06-13
 - [liburing使用之拷贝文件](https://github.com/BruceChen7/gitblog/issues/64)--2023-04-26
 - [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
+## type/cpp
+- [Cpp中的指针](https://github.com/BruceChen7/gitblog/issues/35)--2023-03-08
 ## type/ebpf
 - [X86汇编](https://github.com/BruceChen7/gitblog/issues/78)--2023-11-28
 - [bpf-co-re](https://github.com/BruceChen7/gitblog/issues/65)--2023-05-08
