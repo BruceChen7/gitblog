@@ -68,8 +68,6 @@ My personal blog using issues and GitHub Action
 ## objdump
 - [X86汇编](https://github.com/BruceChen7/gitblog/issues/78)--2023-11-28
 ## Python
-- [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
-- [Python中的最佳实践](https://github.com/BruceChen7/gitblog/issues/68)--2023-05-13
 - [effective python](https://github.com/BruceChen7/gitblog/issues/60)--2023-03-22
 - [WTF Python](https://github.com/BruceChen7/gitblog/issues/23)--2020-09-15
 ## rust
@@ -111,6 +109,9 @@ My personal blog using issues and GitHub Action
 - [k8s中的二次开发](https://github.com/BruceChen7/gitblog/issues/74)--2023-07-05
 - [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
 - [wireshark的基本使用](https://github.com/BruceChen7/gitblog/issues/49)--2023-03-08
+## type/python
+- [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
+- [Python中的最佳实践](https://github.com/BruceChen7/gitblog/issues/68)--2023-05-13
 ## type/rust
 - [使用类型来表达约束](https://github.com/BruceChen7/gitblog/issues/66)--2023-05-08
 - [async和await的概念](https://github.com/BruceChen7/gitblog/issues/55)--2023-03-15
