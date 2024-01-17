@@ -22,6 +22,7 @@ My personal blog using issues and GitHub Action
 - [libtask解读](https://github.com/BruceChen7/gitblog/issues/5)--2020-08-25
 - [bufio解读](https://github.com/BruceChen7/gitblog/issues/4)--2020-08-25
 ## 最近更新
+- [rust中的sync和sen](https://github.com/BruceChen7/gitblog/issues/80)--2024-01-17
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/79)--2023-12-29
 - [X86汇编](https://github.com/BruceChen7/gitblog/issues/78)--2023-11-28
 - [prometheus磁盘文件格式理解](https://github.com/BruceChen7/gitblog/issues/77)--2023-11-16
@@ -41,7 +42,6 @@ My personal blog using issues and GitHub Action
 - [海量数据题](https://github.com/BruceChen7/gitblog/issues/58)--2023-03-22
 - [async和await的概念](https://github.com/BruceChen7/gitblog/issues/55)--2023-03-15
 - [tokio使用中的注意事项](https://github.com/BruceChen7/gitblog/issues/53)--2023-03-13
-- [pwru的分析](https://github.com/BruceChen7/gitblog/issues/52)--2023-03-13
 ## assembly
 - [X86汇编](https://github.com/BruceChen7/gitblog/issues/78)--2023-11-28
 ## async
@@ -113,6 +113,7 @@ My personal blog using issues and GitHub Action
 - [fluent-python](https://github.com/BruceChen7/gitblog/issues/69)--2023-05-13
 - [Python中的最佳实践](https://github.com/BruceChen7/gitblog/issues/68)--2023-05-13
 ## type/rust
+- [rust中的sync和sen](https://github.com/BruceChen7/gitblog/issues/80)--2024-01-17
 - [rust中的sync和send](https://github.com/BruceChen7/gitblog/issues/79)--2023-12-29
 - [使用类型来表达约束](https://github.com/BruceChen7/gitblog/issues/66)--2023-05-08
 - [async和await的概念](https://github.com/BruceChen7/gitblog/issues/55)--2023-03-15
