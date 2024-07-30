@@ -53,6 +53,8 @@ My personal blog using issues and GitHub Action
 ## golang
 - [effective golang](https://github.com/BruceChen7/gitblog/issues/45)--2023-03-08
 - [practical golang](https://github.com/BruceChen7/gitblog/issues/6)--2020-08-25
+## keyword/dop
+- [DOP理解](https://github.com/BruceChen7/gitblog/issues/61)--2023-03-30
 ## keyword/http2
 - [golang实现HTTP2之主流程](https://github.com/BruceChen7/gitblog/issues/42)--2023-03-08
 ## libpf
